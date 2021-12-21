@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609315414725",
+    "project_id": "library-5994f",
+    "storage_bucket": "library-5994f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609315414725:android:5131ea0ec13b50daa546ac",
+        "android_client_info": {
+          "package_name": "com.rishi.rishi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609315414725-gbqt118vadc8jaqucl183ug5u4gntgmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsoLYtczBxFqG-n0aP2tX52N4FwBFdXoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609315414725-gbqt118vadc8jaqucl183ug5u4gntgmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
